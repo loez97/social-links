@@ -104,8 +104,3 @@ body {
     font-size: var(--font-small);
     text-align: center;
 }
-
-.footer__attribution a {
-    color: var(--color-primary);
-    text-decoration: none;
-}
