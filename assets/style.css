@@ -95,7 +95,7 @@ body {
 
 .profile-card__button:hover,
 .profile-card__button:focus {
-    background-color: var(--color-primary);
+    background-color: #505050;
     outline: none;
 }
 
